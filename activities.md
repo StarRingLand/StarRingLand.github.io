@@ -1,26 +1,52 @@
 ---
 layout: default
-title: "About StarRingLand"
+title: "Activities - StarRingLand"
 ---
 
-# サークルについて
+# 活動紹介
 
-## 概要
+## VRChatのワールド
 
-「StarRingLand」は、VRや物理学・数学の世界観を活かした表現活動、  
-および仮想国家「テンソル共和国」の創作・運営を楽しむ同人サークルです。  
-また、創作百合や3Dモデリング等のアートワークにも力を入れ、  
-新しい概念や物語をどんどん形にしていくことを目指しています。
+- [JUST 4D CUBE](https://vrchat.com/home/world/wrld_a8cf8e17-d7df-4b7a-ba28-e9acd6c19cdf)
+- [JUST BLACK HOLE](https://vrchat.com/home/world/wrld_ffce68a0-1a7f-4387-b486-dc500effd027)
+- [OceanCity](https://vrchat.com/home/world/wrld_36efa085-6c6a-4d6c-9544-ac662b07a235)
+- [ARChat](https://vrchat.com/home/world/wrld_3da9da85-9879-400c-b14b-085a707a8033)
+- [ひかりの家](https://vrchat.com/home/world/wrld_a90730ca-7e50-4902-aa9f-86ff7fe35f0c)
+- [はやぶさ高原国立公園](https://vrchat.com/home/world/wrld_205fc2d4-124a-42af-ad6b-e6603e180eea)
 
-## 代表プロフィール
+---
 
-- **鳴家百花（なりや ももか）**  
-  - 物理・数学分野をベースにしたSF的創作や研究ノートの公開に情熱を注ぐ  
-  - VRChat上でのワールド制作やイベント運営にも積極的に参加  
-  - 百合創作・イラストなど、アート方面にも興味津々
+## VRChat向けグッズ
 
-## 活動ポリシー
+- [【VRC想定】４次元立方体UDONギミック](https://ccbh.booth.pm/items/5194306)  
+- [SRG_BlackHole](https://ccbh.booth.pm/items/5182984)  
+- [VRCアバター用 アクセサリー 花飾り](https://ccbh.booth.pm/items/3932235)  
+- [VRchat向け観葉植物 (CCBH_plant)](https://ccbh.booth.pm/items/3877228)  
+- [CCBH_BlackHole](https://ccbh.booth.pm/items/3860717)
 
-- ゆるやかなチームワークで、ワクワクするアイデアを形にする  
-- イベント参加やオンライン交流を通じて、多くの方に楽しさを共有する  
-- 自由な発想と実験精神を大切に、既存の枠にとらわれない創作を行う
+---
+
+## VRChatのアバター
+
+- [VCR向けアバター「デフォルメひかり」](https://ccbh.booth.pm/items/4497800)
+
+---
+
+## VRChatのイベント
+
+- **定例イベント**: ブラックホール集会  
+- **突発的イベント**: 窓断熱集会
+
+---
+
+## イラスト
+
+- [StarRingLand (Pixiv)](https://www.pixiv.net/users/78037227)
+
+---
+
+## 小説
+
+- 現在「未定WAWw」という仮タイトルで準備中。  
+  物理・数学要素や百合創作、仮想国家「テンソル共和国」など、  
+  多次元的な世界観を盛り込んだ物語を構想しています。
