@@ -14,8 +14,6 @@ title: "Activities - StarRingLand"
 - [ひかりの家](https://vrchat.com/home/world/wrld_a90730ca-7e50-4902-aa9f-86ff7fe35f0c)
 - [はやぶさ高原国立公園](https://vrchat.com/home/world/wrld_205fc2d4-124a-42af-ad6b-e6603e180eea)
 
----
-
 ## VRChat向けグッズ
 
 - [【VRC想定】４次元立方体UDONギミック](https://ccbh.booth.pm/items/5194306)  
@@ -24,29 +22,20 @@ title: "Activities - StarRingLand"
 - [VRchat向け観葉植物 (CCBH_plant)](https://ccbh.booth.pm/items/3877228)  
 - [CCBH_BlackHole](https://ccbh.booth.pm/items/3860717)
 
----
-
 ## VRChatのアバター
 
 - [VCR向けアバター「デフォルメひかり」](https://ccbh.booth.pm/items/4497800)
-
----
 
 ## VRChatのイベント
 
 - **定例イベント**: ブラックホール集会  
 - **突発的イベント**: 窓断熱集会
 
----
-
 ## イラスト
 
 - [StarRingLand (Pixiv)](https://www.pixiv.net/users/78037227)
 
----
-
 ## 小説
 
-- 現在「未定WAWw」という仮タイトルで準備中。  
-  物理・数学要素や百合創作、仮想国家「テンソル共和国」など、  
-  多次元的な世界観を盛り込んだ物語を構想しています。
+- 現在準備中。  
+  百合創作、仮想国家「テンソル共和国」の世界観を盛り込んだ物語を構想しています。
