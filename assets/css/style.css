@@ -1,45 +1,44 @@
+/* リセット */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* 全体のフォント：少し丸みある Sans-serif で柔らかい印象 */
 body {
-  font-family: "Hiragino Sans", "Noto Sans JP", cursive, sans-serif;
-  background-color: #ffe6f3; /* パステルピンク系の背景 */
-  color: #333;
+  font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background-color: #f7faff; /* ほんのりブルーがかった淡い背景 */
+  color: #444;  /* 柔らかい文字色 */
   line-height: 1.6;
 }
 
-/* --------------------------------------------------
- * ヘッダー（サイト上部）
- * -------------------------------------------------- */
+/* ヘッダー */
 header {
-  background: linear-gradient(45deg, #ffc6e2, #ffe6f3);
+  /* ピンク抑えめ＋パステル系ブルー/パープルのグラデーション */
+  background: linear-gradient(45deg, #c8d9ff, #f9e0ff);
   padding: 1.5rem;
   text-align: center;
-  border-bottom: 5px solid #ffc6e2; /* ピンクの濃淡で境界 */
+  border-bottom: 5px solid #c8d9ff;
 }
 header h1 {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: bold;
   color: #fff;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-  letter-spacing: 0.05em;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+  letter-spacing: 0.04em;
 }
 
-/* --------------------------------------------------
- * ナビゲーション
- * -------------------------------------------------- */
+/* ナビゲーション */
 nav {
-  background-color: #ffd6eb;
+  background-color: #e0eaff;  /* 淡めのブルー */
   padding: 0.8rem;
   text-align: center;
-  border-bottom: 5px solid #ffc6e2;
+  border-bottom: 5px solid #c8d9ff;
 }
 nav a {
   text-decoration: none;
-  color: #5c5c5c;
+  color: #555;
   font-weight: bold;
   margin: 0 1rem;
   padding: 0.4rem 0.8rem;
@@ -47,107 +46,89 @@ nav a {
   border-radius: 5px;
 }
 nav a:hover {
-  background-color: #ffc6e2;
+  background-color: #c8d9ff;
   color: #fff;
 }
 
-/* --------------------------------------------------
- * メインコンテンツ
- * -------------------------------------------------- */
+/* メインコンテンツ */
 main {
   max-width: 800px;
   margin: 2rem auto;
   background-color: #fff;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0,0,0,0.06);
 }
 p, li {
   margin-bottom: 1rem;
 }
 
-/* --------------------------------------------------
- * 見出しデザイン
- * -------------------------------------------------- */
+/* 見出しデザイン */
 h1 {
   margin-bottom: 1rem;
   font-size: 1.8rem;
-  color: #ff66a1; /* やや濃いピンク */
+  color: #cc90aa; /* 抑えたピンク系 */
 }
-
 h2 {
   margin: 1.5rem 0 1rem;
   font-size: 1.4rem;
   font-weight: bold;
-  color: #ff459e;
-  /* 左にラインの代わりに背景色をあしらう */
-  display: inline-block;
-  padding: 0.3rem 0.6rem;
-  background-color: #ffe6f3;
-  border-radius: 5px;
-  box-shadow: 2px 2px 4px rgba(255,182,205,0.3);
+  color: #a288b7; /* パステル系の紫より */
+  border-left: 5px solid #dfc4e8;
+  padding-left: 0.8rem;
 }
-
 h3 {
   margin: 1rem 0 0.8rem;
   font-size: 1.2rem;
   font-weight: bold;
-  color: #ff459e;
-  text-shadow: 1px 1px 2px rgba(255,198,226,0.5);
+  color: #a288b7;
+  text-shadow: 1px 1px 2px rgba(240, 210, 255, 0.4);
   letter-spacing: 0.02em;
 }
 
-/* --------------------------------------------------
- * リンク装飾
- * -------------------------------------------------- */
+/* 汎用リンク（.link クラス） */
 a.link {
-  color: #ff459e;
+  color: #c47390;  /* 落ち着いたピンク寄り */
   text-decoration: underline;
   transition: color 0.2s ease;
 }
 a.link:hover {
-  color: #ff78b8;
+  color: #df9bad;
 }
 
-/* --------------------------------------------------
- * ボタン (btnクラス)
- * -------------------------------------------------- */
+/* ボタン (btnクラス) */
 .btn {
   display: inline-block;
   padding: 0.6rem 1rem;
-  background: linear-gradient(45deg, #ffc6e2, #ffd6eb);
+  background: linear-gradient(45deg, #dfc4e8, #fddaf2);
   color: #fff;
   font-weight: bold;
-  border: 2px solid #ffb2d6;
+  border: 2px solid #cfaedb;
   border-radius: 25px;
   cursor: pointer;
   transition: all 0.2s ease;
   text-align: center;
   text-decoration: none;
-  box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.1);
 }
 .btn:hover {
-  background: linear-gradient(45deg, #ffb2d6, #ffc6e2);
-  border-color: #ff78b8;
+  background: linear-gradient(45deg, #cfaedb, #dfc4e8);
+  border-color: #b496c8;
 }
 
-/* --------------------------------------------------
- * フッター
- * -------------------------------------------------- */
+/* フッター */
 footer {
   text-align: center;
   font-size: 0.9rem;
   padding: 1rem;
-  background: linear-gradient(45deg, #ffd6eb, #ffc6e2);
+  background: linear-gradient(45deg, #f9e0ff, #c8d9ff);
   color: #fff;
   margin-top: 2rem;
   position: relative;
-  box-shadow: 0 -5px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 -5px 10px rgba(0,0,0,0.06);
 }
 
-/* --------------------------------------------------
- * レスポンシブ対応
- * -------------------------------------------------- */
+/* レスポンシブ対応 */
 @media (max-width: 600px) {
   nav a {
     display: inline-block;
