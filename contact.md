@@ -29,13 +29,3 @@ title: "Contact - StarRingLand"
 イベント参加情報や最新の制作物に関しても、各SNSで随時お知らせしています。  
 
 もし何かご質問やコラボレーションのご相談がありましたら、SNSからご連絡いただけると助かります。
-
-次のような方程式を考えます:
-
-$$
-\begin{aligned}
-f(x) &= ax^2 + bx + c \\
-&= a(x - \alpha)(x - \beta)
-\end{aligned}
-$$
-
