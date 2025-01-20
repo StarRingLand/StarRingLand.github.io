@@ -18,3 +18,5 @@ title: "StarRingLand Official Site"
 といった多岐にわたるテーマで活動しています。
 
 最新情報やイベント告知、作品紹介などをこちらの公式サイトで公開していきます。どうぞよろしくお願いします！
+
+{% include update-history.md %}
